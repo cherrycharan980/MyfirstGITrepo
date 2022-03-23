@@ -15,7 +15,7 @@ public class GetTitle {
 		driver.getTitle();
 		driver.get("http://newtours.demoaut.com/");
 		driver.getTitle();
-		
+		System.out.println("Not Bad cherry");
 
 	}
 
